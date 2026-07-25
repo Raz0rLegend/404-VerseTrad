@@ -1,4 +1,4 @@
-# 404Trad — Traduction française de Star Citizen
+# 404Trad — Traduction française de Star Citizen par Raz0rLegend et la [404]
 
 Traduction communautaire du fichier `global.ini` (localisation anglais → français) de Star Citizen, maintenue par **[404]Raz0rLegend**, en collaboration avec **MrKraken** (pack de chaînes QoL).
 
